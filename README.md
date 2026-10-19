@@ -1,14 +1,30 @@
-# Ducker
+<p align="center">
+  <img src="docs/logo.png" width="120" alt="Ducker">
+</p>
 
-Ducker is a small Windows app that turns your music down when something else on your PC makes a sound, and turns it back up when that sound stops.
+<h1 align="center">Ducker</h1>
+
+<h3 align="center">Sound that steps aside.</h3>
+
+<p align="center">Ducker turns your music down when something else on your PC makes a sound, and back up when it stops.</p>
+
+<p align="center">
+  <a href="https://github.com/jacobhammersley/Ducker/releases/latest"><b>Download the latest version</b></a>
+  &nbsp;·&nbsp;
+  <a href="Ducker%20guide.pdf">Read the guide</a>
+</p>
+
+<p align="center">
+  <img src="docs/screenshot.png" width="360" alt="The Ducker front page">
+</p>
 
 Say you are listening to Spotify and you open a YouTube video. The moment the video makes a sound, Spotify drops to 20% volume. When the video ends, Spotify fades back to full. That dip is called a duck.
 
 ## Download
 
-Get `Ducker - Installer.exe` from the latest release on the Releases page, open it and press Install. Windows SmartScreen may warn about a new program it has not seen before. Click **More info**, then **Run anyway**.
+Get `Ducker - Installer.exe` from the [latest release](https://github.com/jacobhammersley/Ducker/releases/latest), open it and press Install. Windows SmartScreen may warn about a new program it has not seen before. Click **More info**, then **Run anyway**.
 
-The full guide, with every button and setting explained, is in `Ducker guide.pdf`.
+The full guide, with every button and setting explained, is in [Ducker guide.pdf](Ducker%20guide.pdf).
 
 ## What it does
 
