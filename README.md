@@ -93,7 +93,7 @@ You need Python 3.10 or newer. Run `build.bat`. It installs the libraries it nee
 
 ## Who made it
 
-Jacob Hammersley, a creative strategist and media producer in Bristol. Ducker started as a fix for editing videos with music on, then turned out to be useful for a lot more than that.
+Jacob Hammersley, a creative strategist and media producer. Ducker started as a fix for editing videos with music on, then turned out to be useful for a lot more than that.
 
 ## Licence
 
