@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" width="360" alt="The Ducker front page">
+  <img src="docs/demo.gif" width="680" alt="The Sound plays, the Source drops to 15%, then fades back up">
 </p>
 
 Say you are listening to Spotify and you open a YouTube video. The moment the video makes a sound, Spotify drops to 20% volume. When the video ends, Spotify fades back to full. That dip is called a duck.
