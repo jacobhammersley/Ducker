@@ -1,0 +1,15 @@
+# build output
+dist/
+dist_*/
+build/
+*.spec
+*.log
+
+# fetched by build.bat
+fonts/
+
+# working files
+shots/
+sounds/voice.mp3
+settings.json
+__pycache__/
